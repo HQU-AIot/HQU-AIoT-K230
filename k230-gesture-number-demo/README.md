@@ -76,10 +76,6 @@
 - CanMV官方文档：https://canmv.io/docs/
 - K230 示例代码广场：https://github.com/kendryte/canmv_examples
 
-### 进阶（跑完demo之后再看）
-- YOLO简单介绍（通俗版，不讲复杂公式）：https://blog.csdn.net/weixin_44237705/article/details/124206470
-- 模型训练教程：自己采集手势图片，训练属于自己的YOLO手势模型（后续社团进阶内容）
-
 ## 📌 进阶任务（做完基础版本之后挑战）
 1. 识别到数字之后，串口打印数字
 2. 识别到指定手势，控制板载LED亮灭
